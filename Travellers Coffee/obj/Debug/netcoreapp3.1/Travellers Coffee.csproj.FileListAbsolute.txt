@@ -94,3 +94,6 @@ C:\Users\sens4\Desktop\Travellers Coffee\Travellers Coffee\bin\Debug\netcoreapp3
 C:\Users\sens4\Desktop\Travellers Coffee\Travellers Coffee\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
 C:\Users\sens4\Desktop\Travellers Coffee\Travellers Coffee\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
 C:\Users\sens4\Desktop\Travellers Coffee\Travellers Coffee\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sens4\Desktop\Travellers Coffee\Travellers Coffee\obj\Debug\netcoreapp3.1\Razor\Views\Shared\AllCoffee.cshtml.g.cs
+C:\Users\sens4\Desktop\Travellers Coffee\Travellers Coffee\obj\Debug\netcoreapp3.1\Razor\Views\ShopCart\Index.cshtml.g.cs
+C:\Users\sens4\Desktop\Travellers Coffee\Travellers Coffee\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs

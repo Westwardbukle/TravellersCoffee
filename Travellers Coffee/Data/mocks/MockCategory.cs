@@ -12,8 +12,7 @@ namespace Travellers_Coffee.Data.mocks
             {
                 return new List<Category>
                 {
-                    new Category {categoryName = "Сорт Кофе", desc = "Описание сорта"},
-                    new Category {categoryName = "Сладости", desc = "тортики и различные закуски"}
+                    
                 };
             }
         }
