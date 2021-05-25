@@ -97,3 +97,102 @@ C:\Users\sens4\Desktop\Travellers Coffee\Travellers Coffee\bin\Debug\netcoreapp3
 C:\Users\sens4\Desktop\Travellers Coffee\Travellers Coffee\obj\Debug\netcoreapp3.1\Razor\Views\Shared\AllCoffee.cshtml.g.cs
 C:\Users\sens4\Desktop\Travellers Coffee\Travellers Coffee\obj\Debug\netcoreapp3.1\Razor\Views\ShopCart\Index.cshtml.g.cs
 C:\Users\sens4\Desktop\Travellers Coffee\Travellers Coffee\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\инет\Desktop\Shop\TravellersCoffee\Travellers Coffee\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\инет\Desktop\Shop\TravellersCoffee\Travellers Coffee\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\инет\Desktop\Shop\TravellersCoffee\Travellers Coffee\bin\Debug\netcoreapp3.1\dbsettings.json
+C:\Users\инет\Desktop\Shop\TravellersCoffee\Travellers Coffee\bin\Debug\netcoreapp3.1\Travellers Coffee.exe
+C:\Users\инет\Desktop\Shop\TravellersCoffee\Travellers Coffee\bin\Debug\netcoreapp3.1\Travellers Coffee.deps.json
+C:\Users\инет\Desktop\Shop\TravellersCoffee\Travellers Coffee\bin\Debug\netcoreapp3.1\Travellers Coffee.runtimeconfig.json
+C:\Users\инет\Desktop\Shop\TravellersCoffee\Travellers Coffee\bin\Debug\netcoreapp3.1\Travellers Coffee.runtimeconfig.dev.json
+C:\Users\инет\Desktop\Shop\TravellersCoffee\Travellers Coffee\bin\Debug\netcoreapp3.1\Travellers Coffee.dll
+C:\Users\инет\Desktop\Shop\TravellersCoffee\Travellers Coffee\bin\Debug\netcoreapp3.1\Travellers Coffee.pdb
+C:\Users\инет\Desktop\Shop\TravellersCoffee\Travellers Coffee\bin\Debug\netcoreapp3.1\Travellers Coffee.Views.dll
+C:\Users\инет\Desktop\Shop\TravellersCoffee\Travellers Coffee\bin\Debug\netcoreapp3.1\Travellers Coffee.Views.pdb
+C:\Users\инет\Desktop\Shop\TravellersCoffee\Travellers Coffee\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+C:\Users\инет\Desktop\Shop\TravellersCoffee\Travellers Coffee\bin\Debug\netcoreapp3.1\EntityFramework.dll
+C:\Users\инет\Desktop\Shop\TravellersCoffee\Travellers Coffee\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\инет\Desktop\Shop\TravellersCoffee\Travellers Coffee\bin\Debug\netcoreapp3.1\Json.dll
+C:\Users\инет\Desktop\Shop\TravellersCoffee\Travellers Coffee\bin\Debug\netcoreapp3.1\System.Web.Mvc.dll
+C:\Users\инет\Desktop\Shop\TravellersCoffee\Travellers Coffee\bin\Debug\netcoreapp3.1\System.Web.Razor.dll
+C:\Users\инет\Desktop\Shop\TravellersCoffee\Travellers Coffee\bin\Debug\netcoreapp3.1\System.Web.Helpers.dll
+C:\Users\инет\Desktop\Shop\TravellersCoffee\Travellers Coffee\bin\Debug\netcoreapp3.1\System.Web.WebPages.Deployment.dll
+C:\Users\инет\Desktop\Shop\TravellersCoffee\Travellers Coffee\bin\Debug\netcoreapp3.1\System.Web.WebPages.Razor.dll
+C:\Users\инет\Desktop\Shop\TravellersCoffee\Travellers Coffee\bin\Debug\netcoreapp3.1\System.Web.WebPages.dll
+C:\Users\инет\Desktop\Shop\TravellersCoffee\Travellers Coffee\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\инет\Desktop\Shop\TravellersCoffee\Travellers Coffee\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\инет\Desktop\Shop\TravellersCoffee\Travellers Coffee\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\инет\Desktop\Shop\TravellersCoffee\Travellers Coffee\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\инет\Desktop\Shop\TravellersCoffee\Travellers Coffee\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\инет\Desktop\Shop\TravellersCoffee\Travellers Coffee\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\инет\Desktop\Shop\TravellersCoffee\Travellers Coffee\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\инет\Desktop\Shop\TravellersCoffee\Travellers Coffee\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\инет\Desktop\Shop\TravellersCoffee\Travellers Coffee\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\инет\Desktop\Shop\TravellersCoffee\Travellers Coffee\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\инет\Desktop\Shop\TravellersCoffee\Travellers Coffee\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\инет\Desktop\Shop\TravellersCoffee\Travellers Coffee\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\инет\Desktop\Shop\TravellersCoffee\Travellers Coffee\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\инет\Desktop\Shop\TravellersCoffee\Travellers Coffee\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\инет\Desktop\Shop\TravellersCoffee\Travellers Coffee\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\инет\Desktop\Shop\TravellersCoffee\Travellers Coffee\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\инет\Desktop\Shop\TravellersCoffee\Travellers Coffee\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\инет\Desktop\Shop\TravellersCoffee\Travellers Coffee\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\инет\Desktop\Shop\TravellersCoffee\Travellers Coffee\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\инет\Desktop\Shop\TravellersCoffee\Travellers Coffee\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\инет\Desktop\Shop\TravellersCoffee\Travellers Coffee\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\инет\Desktop\Shop\TravellersCoffee\Travellers Coffee\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\инет\Desktop\Shop\TravellersCoffee\Travellers Coffee\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\инет\Desktop\Shop\TravellersCoffee\Travellers Coffee\bin\Debug\netcoreapp3.1\Microsoft.Web.Infrastructure.dll
+C:\Users\инет\Desktop\Shop\TravellersCoffee\Travellers Coffee\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\инет\Desktop\Shop\TravellersCoffee\Travellers Coffee\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\Users\инет\Desktop\Shop\TravellersCoffee\Travellers Coffee\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\инет\Desktop\Shop\TravellersCoffee\Travellers Coffee\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\инет\Desktop\Shop\TravellersCoffee\Travellers Coffee\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\инет\Desktop\Shop\TravellersCoffee\Travellers Coffee\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\инет\Desktop\Shop\TravellersCoffee\Travellers Coffee\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\инет\Desktop\Shop\TravellersCoffee\Travellers Coffee\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\инет\Desktop\Shop\TravellersCoffee\Travellers Coffee\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\инет\Desktop\Shop\TravellersCoffee\Travellers Coffee\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\инет\Desktop\Shop\TravellersCoffee\Travellers Coffee\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\инет\Desktop\Shop\TravellersCoffee\Travellers Coffee\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\инет\Desktop\Shop\TravellersCoffee\Travellers Coffee\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\инет\Desktop\Shop\TravellersCoffee\Travellers Coffee\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\инет\Desktop\Shop\TravellersCoffee\Travellers Coffee\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\инет\Desktop\Shop\TravellersCoffee\Travellers Coffee\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\инет\Desktop\Shop\TravellersCoffee\Travellers Coffee\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\инет\Desktop\Shop\TravellersCoffee\Travellers Coffee\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\инет\Desktop\Shop\TravellersCoffee\Travellers Coffee\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\инет\Desktop\Shop\TravellersCoffee\Travellers Coffee\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\инет\Desktop\Shop\TravellersCoffee\Travellers Coffee\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\инет\Desktop\Shop\TravellersCoffee\Travellers Coffee\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\инет\Desktop\Shop\TravellersCoffee\Travellers Coffee\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\инет\Desktop\Shop\TravellersCoffee\Travellers Coffee\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\инет\Desktop\Shop\TravellersCoffee\Travellers Coffee\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\инет\Desktop\Shop\TravellersCoffee\Travellers Coffee\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\инет\Desktop\Shop\TravellersCoffee\Travellers Coffee\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\инет\Desktop\Shop\TravellersCoffee\Travellers Coffee\obj\Debug\netcoreapp3.1\Travellers Coffee.csprojAssemblyReference.cache
+C:\Users\инет\Desktop\Shop\TravellersCoffee\Travellers Coffee\obj\Debug\netcoreapp3.1\Travellers Coffee.AssemblyInfoInputs.cache
+C:\Users\инет\Desktop\Shop\TravellersCoffee\Travellers Coffee\obj\Debug\netcoreapp3.1\Travellers Coffee.AssemblyInfo.cs
+C:\Users\инет\Desktop\Shop\TravellersCoffee\Travellers Coffee\obj\Debug\netcoreapp3.1\Travellers Coffee.csproj.CoreCompileInputs.cache
+C:\Users\инет\Desktop\Shop\TravellersCoffee\Travellers Coffee\obj\Debug\netcoreapp3.1\Travellers Coffee.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\инет\Desktop\Shop\TravellersCoffee\Travellers Coffee\obj\Debug\netcoreapp3.1\Travellers Coffee.RazorAssemblyInfo.cache
+C:\Users\инет\Desktop\Shop\TravellersCoffee\Travellers Coffee\obj\Debug\netcoreapp3.1\Travellers Coffee.RazorAssemblyInfo.cs
+C:\Users\инет\Desktop\Shop\TravellersCoffee\Travellers Coffee\obj\Debug\netcoreapp3.1\staticwebassets\Travellers Coffee.StaticWebAssets.Manifest.cache
+C:\Users\инет\Desktop\Shop\TravellersCoffee\Travellers Coffee\obj\Debug\netcoreapp3.1\staticwebassets\Travellers Coffee.StaticWebAssets.xml
+C:\Users\инет\Desktop\Shop\TravellersCoffee\Travellers Coffee\obj\Debug\netcoreapp3.1\scopedcss\bundle\Travellers Coffee.styles.css
+C:\Users\инет\Desktop\Shop\TravellersCoffee\Travellers Coffee\obj\Debug\netcoreapp3.1\Travellers Coffee.TagHelpers.input.cache
+C:\Users\инет\Desktop\Shop\TravellersCoffee\Travellers Coffee\obj\Debug\netcoreapp3.1\Travellers Coffee.TagHelpers.output.cache
+C:\Users\инет\Desktop\Shop\TravellersCoffee\Travellers Coffee\obj\Debug\netcoreapp3.1\Travellers Coffee.RazorCoreGenerate.cache
+C:\Users\инет\Desktop\Shop\TravellersCoffee\Travellers Coffee\obj\Debug\netcoreapp3.1\Razor\Views\Coffee\List.cshtml.g.cs
+C:\Users\инет\Desktop\Shop\TravellersCoffee\Travellers Coffee\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\инет\Desktop\Shop\TravellersCoffee\Travellers Coffee\obj\Debug\netcoreapp3.1\Razor\Views\Shared\AllCoffee.cshtml.g.cs
+C:\Users\инет\Desktop\Shop\TravellersCoffee\Travellers Coffee\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\инет\Desktop\Shop\TravellersCoffee\Travellers Coffee\obj\Debug\netcoreapp3.1\Razor\Views\ShopCart\Index.cshtml.g.cs
+C:\Users\инет\Desktop\Shop\TravellersCoffee\Travellers Coffee\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\инет\Desktop\Shop\TravellersCoffee\Travellers Coffee\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\инет\Desktop\Shop\TravellersCoffee\Travellers Coffee\obj\Debug\netcoreapp3.1\Travellers Coffee.RazorTargetAssemblyInfo.cache
+C:\Users\инет\Desktop\Shop\TravellersCoffee\Travellers Coffee\obj\Debug\netcoreapp3.1\Travellers Coffee.RazorTargetAssemblyInfo.cs
+C:\Users\инет\Desktop\Shop\TravellersCoffee\Travellers Coffee\obj\Debug\netcoreapp3.1\Travellers Coffee.Views.pdb
+C:\Users\инет\Desktop\Shop\TravellersCoffee\Travellers Coffee\obj\Debug\netcoreapp3.1\Travellers Coffee.csproj.CopyComplete
+C:\Users\инет\Desktop\Shop\TravellersCoffee\Travellers Coffee\obj\Debug\netcoreapp3.1\Travellers Coffee.dll
+C:\Users\инет\Desktop\Shop\TravellersCoffee\Travellers Coffee\obj\Debug\netcoreapp3.1\Travellers Coffee.pdb
+C:\Users\инет\Desktop\Shop\TravellersCoffee\Travellers Coffee\obj\Debug\netcoreapp3.1\Travellers Coffee.genruntimeconfig.cache

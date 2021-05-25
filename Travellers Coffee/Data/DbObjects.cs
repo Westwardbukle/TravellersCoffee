@@ -62,7 +62,23 @@ namespace Travellers_Coffee.Data
                         isFavorite = true,
                         avaiable = true,
                         Category =Categories["Сладости"]
-                    } );
+                    },
+                   new Coffe
+                   {
+                       name = "JACOBS MONARCH",
+                       shortDesc = "Jacobs Monarch обладает богатым, классическим вкусом " +
+                                   "и притягательным ароматом, благодаря искусному сочетанию " +
+                                   "отборных кофейных зёрен и глубокой обжарке, " +
+                                   "и является наиболее популярным кофе в линейке Jacobs. " +
+                                   "Приготовьте кофе Jacobs Monarch для себя и своих близких и почувствуйте " +
+                                   "его вдохновляющую Аромагию",
+                       longDesc = "",
+                       img = "/img/monarh.jpg",
+                       price = 1500, 
+                       isFavorite = true,
+                       avaiable = true,
+                       Category =Categories["СортКофе"]
+                   });
             }
 
             dbContent.SaveChanges();

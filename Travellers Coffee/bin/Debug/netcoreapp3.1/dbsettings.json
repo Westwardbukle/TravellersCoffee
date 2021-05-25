@@ -1,5 +1,5 @@
 ﻿{
   "ConnectionStrings": {
-    "DefaultConnection": "Server=(localdb)\\MSSQLLocalDB;DataBase=TravellersCoffee;Trusted_Connection=True;MultipleActiveResultSets=true"
+    "DefaultConnection": "Server=414-06\\SQLEXPRESS;DataBase=TravellersCoffee;Trusted_Connection=True;MultipleActiveResultSets=true"
   }
 }

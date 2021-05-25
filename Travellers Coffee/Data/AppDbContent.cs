@@ -7,7 +7,7 @@ namespace Travellers_Coffee.Data
     {
         public AppDbContent(DbContextOptions<AppDbContent> options) : base(options)
         {
-            
+            Database.EnsureCreated();
         }
         
         public DbSet<Coffe> Coffe { get; set; }
